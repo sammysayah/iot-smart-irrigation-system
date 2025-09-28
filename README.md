@@ -2,7 +2,7 @@
 
 A full-stack IoT solution for automated plant watering with real-time monitoring and control via Laravel dashboard.
 
-![Project Banner](https://via.placeholder.com/1200x400/22c55e/ffffff?text=IoT+Smart+Irrigation+System)
+![Project Banner](public/welcome.png)
 
 ## 🚀 Project Overview
 
