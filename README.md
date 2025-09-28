@@ -2,7 +2,12 @@
 
 A full-stack IoT solution for automated plant watering with real-time monitoring and control via Laravel dashboard.
 
-![Project Banner](public/welcome.png)
+![Project Banner](assets/welcomeirrigation.png) 
+![Welcome Page](assets/welcomeirrigation.png)
+![Homepage](assets/homepage.png)
+![Charts](assets/charts.png)
+![Settings](assets/settings.png)
+
 
 ## 🚀 Project Overview
 
@@ -55,5 +60,5 @@ A full-stack IoT solution for automated plant watering with real-time monitoring
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/iot-smart-irrigation-system.git
+git clone  https://github.com/sammysayah/iot-smart-irrigation-system.git
 cd iot-smart-irrigation-system
