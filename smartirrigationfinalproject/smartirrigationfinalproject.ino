@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "HUAWEI-B311-9FA3";
-const char* password = "sammysayah";
+const char* ssid = "YOURWIFISSID";
+const char* password = "YOURWIFIPASSWORD";
 
 const char* serverUrl = "http://192.168.9.107:8000/api/irrigation/sensor-data";
 const char* statusUrl = "http://192.168.9.107:8000/api/irrigation/system-status";
